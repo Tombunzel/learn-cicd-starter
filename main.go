@@ -26,7 +26,7 @@ var staticFiles embed.FS
 
 func unsued() {
 	// this function does nothing
-    // and is called nowhere
+	// and is called nowhere
 }
 
 func main() {
